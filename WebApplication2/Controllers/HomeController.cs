@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "quien soy yo.";
+            ViewBag.Message = "alterado desde rama master origin en rama cambios grandes.";
 
             return View();
         }

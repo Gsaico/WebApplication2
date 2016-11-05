@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "alterado desde rama master origin en rama cambios grandes.";
+            ViewBag.Message = "alterado desde rama master origin en rama cambios grandes.ok";
 
             return View();
         }
